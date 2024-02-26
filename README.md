@@ -13,11 +13,11 @@
 **- Technologies Used - Html , css **
 
 **- How to reach me : with my [instagram](http://www.instagram.com/golnarghaffari20) and [linkedin](http://www.linkedin.com/in/golnar-ghaffari-b370462a9/")**
-![4](https://github.com/golnarghaffari/wine-store/assets/155916502/5e82780b-7cc5-4d3c-b598-7b6aa4575fe3)
-![5](https://github.com/golnarghaffari/wine-store/assets/155916502/54444d3f-7205-437a-b600-75b91f291b96)
-![6](https://github.com/golnarghaffari/wine-store/assets/155916502/72835279-7907-48ce-957a-ca15b72db278)
-![7](https://github.com/golnarghaffari/wine-store/assets/155916502/72985a88-1dc2-413e-bcb1-1c14066ab340)
-![1](https://github.com/golnarghaffari/wine-store/assets/155916502/09e2070e-84ec-4bd0-8780-005c21580242)
-![2](https://github.com/golnarghaffari/wine-store/assets/155916502/1b083dbe-ecd9-41c1-967b-ed8a953c5fca)
-![Uploading 3.png…]()
 
+![1](https://github.com/golnarghaffari/wine-store/assets/155916502/d68de9c6-0292-4af4-9661-90712f11282a)
+![2](https://github.com/golnarghaffari/wine-store/assets/155916502/479cce38-7592-4e9f-af2f-1493f9cf1af2)
+![3](https://github.com/golnarghaffari/wine-store/assets/155916502/77ee1871-a437-472f-9f49-674ef79b317a)
+![4](https://github.com/golnarghaffari/wine-store/assets/155916502/66241ca3-4a10-45c4-b314-1f82991277db)
+![5](https://github.com/golnarghaffari/wine-store/assets/155916502/63891828-08be-4c41-b4e3-4b1ed4f46370)
+![6](https://github.com/golnarghaffari/wine-store/assets/155916502/d76b704a-3c53-4ae3-af38-fb6e460bbfe1)
+![7](https://github.com/golnarghaffari/wine-store/assets/155916502/9502fcc7-b7d9-4225-8cbd-1536e0e87346)
